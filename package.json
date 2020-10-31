@@ -1,0 +1,30 @@
+{
+  "name": "@abyrd9/stylelint-config-abyrd",
+  "version": "1.0.0",
+  "description": "A stylelint config for abyrd's projects.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Byrd",
+  "license": "MIT",
+  "repository": "https://github.com/Abyrd9/stylelint-config-abyrd",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/Abyrd9/stylelint-config-abyrd/issues"
+  },
+  "homepage": "https://github.com/Abyrd9/stylelint-config-abyrd#readme",
+  "dependencies": {
+    "prettier": "^2.1.2",
+    "stylelint": "^13.7.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
