@@ -1,4 +1,6 @@
 .vscode
 .gitignore
-package-lock.json
+.npmignore
 README.md
+node_modules
+package-lock.json
